@@ -1,0 +1,17 @@
+{
+	"Version": "1.0.0",
+	"Api": {
+		"DiscordToken": ""
+	},
+	"Setting": {
+		"CommandPrefix": ".",
+		"AccountStatus": {
+			"type": "watching",
+			"name": "tedliou.com"
+		},
+		"MessageDelete": {
+			"enable": false,
+			"delay": 10
+		}
+	}
+}
