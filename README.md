@@ -12,12 +12,12 @@ PitoBot 是我第一個使用 Node.js 開發的應用程式，語法應用尚不
 ```
 所需套件將會自動安裝完成。
 
-接著請編輯 config.json
+接著請編輯 config.json，修改 DiscordToken 後面的值為你的 Discord 機器人 Token。
 ```
 {
 	"Version": "1.0.0",
 	"Api": {
-		"DiscordToken": "你的Bot Token"
+		"DiscordToken": "Your Bot Token"
 	},
 	"Setting": {
 		"CommandPrefix": ".",
