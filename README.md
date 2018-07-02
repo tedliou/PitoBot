@@ -17,19 +17,7 @@ PitoBot 是我第一個使用 Node.js 開發的應用程式，語法應用尚不
 {
 	"Version": "1.0.0",
 	"Api": {
-		"DiscordToken": "Your Bot Token"
-	},
-	"Setting": {
-		"CommandPrefix": ".",
-		"AccountStatus": {
-			"type": "watching",
-			"name": "tedliou.com"
-		},
-		"MessageDelete": {
-			"enable": false,
-			"delay": 10
-		}
-	}
-}
+		"DiscordToken": ""
+	}...
 ```
 最後輸入指令 `node pitobot.js` 即可啟動音樂機器人。
