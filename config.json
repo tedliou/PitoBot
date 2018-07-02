@@ -4,14 +4,24 @@
 		"DiscordToken": ""
 	},
 	"Setting": {
-		"CommandPrefix": ".",
+		"BotName": "Pitohui Music Bot",
+		"Prefix": ".",
+		"ShufflePlaylist": true,
 		"AccountStatus": {
 			"type": "watching",
 			"name": "tedliou.com"
-		},
-		"MessageDelete": {
-			"enable": false,
-			"delay": 10
 		}
+	},
+	"Command": {
+		"Play": "play",
+		"Stop": "stop",
+		"Skip": "skip",
+		"Pause": "pause",
+		"Queue": "queue",
+		"Nowplaying": "np",
+		"Help": "help"
+	},
+	"Message": {
+		"PleaseJoinChannel": "請先加入語音頻道"
 	}
 }
