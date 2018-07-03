@@ -1,0 +1,21 @@
+{
+  "PleaseJoinChannelFirst": "請先加入語音頻道",
+  "StopSound": "停止音樂",
+  "SkipSound": "切歌",
+  "PauseSound": "暫停",
+  "ResumeSound": "繼續播放",
+  "NowPlaying": "正在播放",
+  "NowPlayingNothing": "什麼都沒有 ...",
+  "LoadingPlaylist": "讀取中",
+  "LoadingPlaylistTitle": "正在讀取",
+  "AddPlaylist": "新增 %count% 首歌曲至播放清單",
+  "AddPlaylistTitle": ":white_check_mark: 讀取完成",
+  "AddSound": "已加到佇列",
+  "AddSoundTitle": ":white_check_mark: %title%",
+  "Queue": "等待播放，尚餘 %count% 首",
+  "QueueNothing": "沒有歌曲",
+  "UnknownSource": "未知的來源",
+  "Help": "指令說明",
+  "Restarting": "重新啟動中...",
+  "NotOwner": "你不是這個機器人的擁有者，不能執行這個指令"
+}

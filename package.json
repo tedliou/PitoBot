@@ -1,16 +1,19 @@
 {
   "name": "pitobot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Simple Discord Youtube Music Bot",
   "main": "pitobot.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "discord.js": "^11.3.2",
-    "ffmpeg-binaries": "^3.2.2-3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2",
     "fs": "^0.0.1-security",
+    "libsodium-wrappers": "^0.7.3",
     "opusscript": "^0.0.6",
     "package.json": "^2.0.1",
     "request": "^2.87.0",
+    "uws": "^10.148.1",
     "ytdl-core": "^0.20.4"
   },
   "devDependencies": {},
