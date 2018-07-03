@@ -213,7 +213,6 @@ async function playSound(message) {
         message.guild.voiceConnection.disconnect();
         tmp_playlist[message.guild.id] = new Array();
       } else {
-        tmp_playlist[message.guild.id].shift();
         if (tmp_playlist[message.guild.id].length > 0) {
           setImmediate(() => {
             playSound(message);
